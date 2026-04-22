@@ -6,8 +6,8 @@
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **Web Development & VLSI**
 - 💻 I’m working on **Projects & Coding Skills**
-- 📫 How to reach me: **your-email@gmail.com**
-- ⚡ Fun fact: I love tech & fitness 💪
+- 📫 How to reach me: **udit69914@gmil.com**
+- 
 
 ---
 
